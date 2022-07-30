@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqGCHk91nvdHtEOebx84/SzNeRZOXbW58c5EGd5y6Lk8tVEPpMHxOJuP7ZnTGY7blFRbRgPlZulCYy+y+as/zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodfr\\source\\repos\\PDF-Resume-Maker\\PDF-Resume-Maker\\PDF-Resume-Maker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodfr\\.nuget\\packages\\harfbuzzsharp\\2.6.1.7\\harfbuzzsharp.2.6.1.7.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\opentk.glcontrol\\3.1.0\\opentk.glcontrol.3.1.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\skiasharp\\2.88.0\\skiasharp.2.88.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\skiasharp.harfbuzz\\2.80.2\\skiasharp.harfbuzz.2.80.2.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0\\skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0\\skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\skiasharp.views.desktop.common\\2.88.0\\skiasharp.views.desktop.common.2.88.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\skiasharp.views.windowsforms\\2.88.0\\skiasharp.views.windowsforms.2.88.0.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\rodfr\\.nuget\\packages\\topten.richtextkit\\0.4.151\\topten.richtextkit.0.4.151.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTK 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTK.GLControl 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
